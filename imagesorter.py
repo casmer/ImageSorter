@@ -17,7 +17,7 @@ else:
     # Path for sorted files to be stored
     dirs_path = "Z:\\casey\\OneDrive\\Pictures\\Camera Roll\\"
     # Where images to be organized are located
-    images_path = "Z:\\casey\\OneDrive\\Pictures\\Camera Roll\\2018\\kristy"
+    images_path = "Z:\\casey\\OneDrive\\Pictures\\Camera Roll\\ToSort"
 
 
 # If it doesn't exist, creates a new one
